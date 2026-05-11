@@ -15,8 +15,10 @@ jobs:
 
       - name: Install document build tools
         run: |
-          sudo apt-get update
-          sudo apt-get install -y pandoc wkhtmltopdf
+          mkdir -p "$RUNNER_TEMP/apt-sources"
+          sudo cp /etc/apt/sources.list.d/ubuntu.sources "$RUNNER_TEMP/apt-sources/ubuntu.sources"
+          sudo apt-get -o Dir::Etc::sourceparts="$RUNNER_TEMP/apt-sources" update
+          sudo DEBIAN_FRONTEND=noninteractive apt-get -o Dir::Etc::sourceparts="$RUNNER_TEMP/apt-sources" install -y pandoc wkhtmltopdf
 
       - name: Build agreement artifacts
         run: bash scripts/build_agreement.sh
