@@ -9,7 +9,7 @@ date: 2026-05-11
 
 # Draft status
 
-This agreement scaffold is structured to keep governance authority contributor-facing and AIWA-led, while protecting Starisian Technologies as the infrastructure, platform, and patent-owning layer behind SPARXSTAR and related systems.
+This agreement scaffold is structured to keep governance authority contributor-facing and AIWA-led, while recognizing the AIWA ecosystem as governance-aware commercial infrastructure and protecting Starisian Technologies as the infrastructure, platform, and patent-owning layer behind SPARXSTAR and related systems.
 
 # Part I — Foundations
 
@@ -17,7 +17,7 @@ This agreement scaffold is structured to keep governance authority contributor-f
 
 ### AI West Africa (AIWA)
 
-AI West Africa is a Gambian-led governance, rights administration, educational publishing, and cultural stewardship organization focused on language preservation, contributor development, and the ethical administration of African creative and linguistic resources.
+AI West Africa is a Gambian-led for-profit educational publishing, governance, rights administration, and cultural stewardship company focused on language preservation, contributor development, governed commercialization, and the ethical administration of African creative and linguistic resources.
 
 ### Starisian Technologies
 
@@ -25,7 +25,7 @@ Starisian Technologies is the affiliated technical infrastructure and systems de
 
 ## 2. Purpose
 
-The purpose of this agreement is to define the institutional relationship between AIWA and Starisian Technologies for language preservation, educational publishing, teaching, certification, AI governance, rights administration, infrastructure cooperation, and the ethical processing of contributor-governed materials.
+The purpose of this agreement is to define the institutional relationship between AIWA and Starisian Technologies for language preservation, commercial educational publishing, teaching, certification, AI governance, rights administration, governed licensing, revenue participation, infrastructure cooperation, and the ethical processing and commercialization of contributor-governed materials.
 
 ## 3. Relationship of the Parties
 
@@ -103,8 +103,10 @@ The purpose of this agreement is to define the institutional relationship betwee
 
 - Contributors retain ownership unless they expressly grant rights otherwise.
 - AIWA administers permissions, consent states, governance rules, provenance integrity, and cultural protections.
+- Commercialization must remain permissioned, attributable, provenance-aware, auditable, and governed by contributor-rights integrity rather than implied platform control.
 - Starisian receives only the technical rights needed to host, process, secure, and operate approved systems.
 - Ownership and control of embeddings, annotations, trained models, synthetic outputs, and educational outputs must be stated expressly rather than implied.
+- Licensed dataset operations, governed computational rights, commercial educational publishing, and contributor-administered commercialization must be treated as legitimate but expressly bounded institutional functions.
 - No AI training, retraining, fine-tuning, embedding generation, synthetic generation, inference optimization, or computational derivation rights are implied merely by dataset access, storage access, or infrastructure access.
 - Neither party shall intentionally use governed materials to reconstruct commercially substitutive reproductions of contributor Works absent explicit authorization.
 - Educational rights must be treated as distinct from computational rights, distribution rights, and synthetic-generation rights.

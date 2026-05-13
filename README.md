@@ -1,5 +1,5 @@
 # aiwa-governance-framework
-A governance and rights administration framework for culturally grounded AI, educational publishing, language preservation, and contributor-centered dataset stewardship in Africa.
+A governance and rights administration framework for culturally grounded AI, governed commercial educational publishing, language preservation, contributor-centered dataset stewardship, and provenance-aware commercialization in Africa.
 
 ## Agreement artifact generation
 
