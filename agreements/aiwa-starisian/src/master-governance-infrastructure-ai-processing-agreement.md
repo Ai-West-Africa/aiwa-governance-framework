@@ -21,7 +21,7 @@ This agreement scaffold is structured to:
 
 ### AI West Africa (AIWA)
 
-AI West Africa is a Gambian-led for-profit company. It operates in educational publishing, governance, rights administration, and cultural stewardship. Its focus includes language preservation and contributor development. It also conducts commercialization under contributor permissions, provenance controls, and governance rules to support the ethical administration of African creative and linguistic resources.
+AI West Africa is a for-profit Gambian company. It operates in educational publishing, language preservation, contributor governance, rights administration, and cultural stewardship. Its focus includes commercially sustainable educational publishing, rights-aware digital infrastructure, and governed AI systems. It conducts commercialization under contributor permissions, provenance controls, and governance rules to support the ethical administration of African creative and linguistic resources.
 
 ### Starisian Technologies
 
@@ -244,4 +244,8 @@ The purpose of this agreement is to define the institutional relationship betwee
 - Preserve Gambian-rooted stewardship logic for cultural legitimacy, contributor dignity, provenance oversight, and anti-extractive governance commitments.
 - Keep the agreement governance-led and infrastructure-protective, rather than infrastructure-led with governance appended later.
 - Keep the master agreement focused on inter-organizational constitutional structure, while moving operational semantics, enforcement details, economic logic, and security controls into schedules, annexes, or companion specifications.
+- Use commercially credible, operationally disciplined, rights-aware, and ethically governed enterprise language rather than activist, nonprofit, or aid-sector framing.
+- Reference SDGs, California-influenced practices, or similar external standards only as voluntary alignment with internationally recognized principles and commercially influential governance practices, not as charity positioning or as direct submission to foreign law.
+- Frame accessibility as operational inclusion, educational reach, workforce participation, and product quality rather than as charity.
+- Frame labor, safeguarding, and human-rights-related controls in enterprise terms such as workforce integrity, lawful labor, anti-coercion, supply-chain integrity, and safeguarding.
 - Use this file as the source of truth for iterative drafting until schedules and annexes are added.
