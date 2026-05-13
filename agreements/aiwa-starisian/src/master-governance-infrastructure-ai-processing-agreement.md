@@ -17,7 +17,7 @@ This agreement scaffold is structured to keep governance authority contributor-f
 
 ### AI West Africa (AIWA)
 
-AI West Africa is a Gambian-led for-profit company operating in educational publishing, governance, rights administration, and cultural stewardship. Its focus includes language preservation and contributor development. It also uses governed commercialization conducted under contributor permissions, provenance controls, and governance rules to support the ethical administration of African creative and linguistic resources.
+AI West Africa is a Gambian-led for-profit company. It operates in educational publishing, governance, rights administration, and cultural stewardship. Its focus includes language preservation and contributor development. It also uses commercialization conducted under contributor permissions, provenance controls, and governance rules to support the ethical administration of African creative and linguistic resources.
 
 ### Starisian Technologies
 
@@ -107,10 +107,10 @@ The purpose of this agreement is to define the institutional relationship betwee
 
 - Contributors retain ownership unless they expressly grant rights otherwise.
 - AIWA administers permissions, consent states, governance rules, provenance integrity, and cultural protections.
-- Commercialization must remain permissioned, attributable, provenance-aware, auditable, and governed by contributor-rights integrity rather than implied platform control.
+- Commercialization must remain permissioned, attributable, provenance-aware, auditable, and governed by documented contributor ownership, permissions, and restrictions rather than implied platform control.
 - Starisian receives only the technical rights needed to host, process, secure, and operate approved systems.
 - Ownership and control of embeddings, annotations, trained models, synthetic outputs, and educational outputs must be stated expressly rather than implied.
-- Licensed dataset operations, governed computational rights, commercial educational publishing, and contributor-administered commercialization must be treated as legitimate but expressly bounded institutional functions.
+- Licensed dataset operations, governed computational rights, commercial educational publishing, and contributor-administered commercialization must be treated as legitimate institutional functions, but only within express rights states, approved purposes, and written schedules.
 - No AI training, retraining, fine-tuning, embedding generation, synthetic generation, inference optimization, or computational derivation rights are implied merely by dataset access, storage access, or infrastructure access.
 - Neither party shall intentionally use governed materials to reconstruct commercially substitutive reproductions of contributor Works absent explicit authorization.
 - Educational rights must be treated as distinct from computational rights, distribution rights, and synthetic-generation rights.
