@@ -21,7 +21,10 @@ This agreement scaffold is structured to:
 
 ### AI West Africa (AIWA)
 
-AI West Africa is a for-profit Gambian company. It operates in educational publishing, language preservation, contributor governance, rights administration, and cultural stewardship. Its focus includes commercially sustainable educational publishing, rights-aware digital infrastructure, and governed AI systems. It conducts commercialization under contributor permissions, provenance controls, and governance rules to support the ethical administration of African creative and linguistic resources.
+AI West Africa is a for-profit Gambian company.
+Its operational domains include educational publishing, language preservation, contributor governance, rights administration, and cultural stewardship.
+Its strategic focus includes commercially sustainable educational publishing, rights-aware digital infrastructure, and governed AI systems.
+Its commercialization model operates under contributor permissions, provenance controls, and governance rules to support the ethical administration of African creative and linguistic resources.
 
 ### Starisian Technologies
 
