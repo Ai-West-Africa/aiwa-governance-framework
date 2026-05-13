@@ -25,7 +25,7 @@ Starisian Technologies is the affiliated technical infrastructure and systems de
 
 ## 2. Purpose
 
-The purpose of this agreement is to define the institutional relationship between AIWA and Starisian Technologies for language preservation, educational publishing, AI governance, rights administration, infrastructure cooperation, and the ethical processing of contributor-governed materials.
+The purpose of this agreement is to define the institutional relationship between AIWA and Starisian Technologies for language preservation, educational publishing, teaching, certification, AI governance, rights administration, infrastructure cooperation, and the ethical processing of contributor-governed materials.
 
 ## 3. Relationship of the Parties
 
@@ -33,10 +33,23 @@ The purpose of this agreement is to define the institutional relationship betwee
 - AIWA serves as the contributor-facing governance, stewardship, and rights-administration layer.
 - Starisian serves as the infrastructure, platform, execution, and patented systems layer.
 - Nothing in this agreement implies a merger, automatic transfer of ownership, or automatic transfer of contributor rights.
+- Any shared personnel, shared advisors, or governance overlap must be documented and managed through conflict-governance procedures rather than treated as collapsing the parties into one entity.
+- Any cross-license, delegated authority, or infrastructure access right must be stated expressly in writing and limited to the approved purpose, scope, and duration.
+- Final governance authority over contributor permissions, cultural restrictions, and rights-state determinations remains with authorized human governance bodies designated by AIWA.
+
+## 4. Defined governance concepts
+
+| Term | Working definition for full agreement drafting |
+| --- | --- |
+| Computational Rights | Rights to tokenize, parse, embed, analyze, train upon, retrain upon, fine-tune, infer from, transform, classify, vectorize, model, or otherwise computationally process a governed Work or dataset. |
+| Governance Metadata | Machine-readable provenance, attribution, permission, restriction, licensing, royalty participation, governance inheritance, and contributor-identity information associated with governed artifacts. |
+| Governance Propagation | The rule that applicable permissions, restrictions, provenance requirements, royalty states, and governance states follow derivative artifacts unless an express approved override states otherwise. |
+| Operational State | The current authorized governance status applied to an artifact, dataset, model, output, or system component. |
+| Derived Outputs | Distinct categories of outputs including statistical outputs, embeddings, educational summaries, synthetic outputs, generated media, transformative outputs, and commercially substitutive outputs, each requiring express governance treatment. |
 
 # Part II — Governance Mapping
 
-## 4. Governance Allocation Matrix
+## 5. Governance Allocation Matrix
 
 | Domain | AIWA | Starisian | Joint |
 | --- | --- | --- | --- |
@@ -54,7 +67,7 @@ The purpose of this agreement is to define the institutional relationship betwee
 | Licensing enforcement | Primary authority | Technical support and reporting | Collections and audit coordination |
 | Educational publishing | Primary authority | Systems support | Production planning |
 
-## 5. Policy Hierarchy
+## 6. Policy Hierarchy
 
 1. Applicable law and mandatory contributor protections.
 2. AIWA governance frameworks, contributor agreements, and cultural stewardship policies.
@@ -63,7 +76,7 @@ The purpose of this agreement is to define the institutional relationship betwee
 
 # Part III — IP & Asset Mapping
 
-## 6. IP & Asset Register
+## 7. IP & Asset Register
 
 | Asset class | Illustrative assets | Primary controller / owner | Notes for agreement schedule |
 | --- | --- | --- | --- |
@@ -72,65 +85,112 @@ The purpose of this agreement is to define the institutional relationship betwee
 | Cultural review systems | Review criteria, stewardship protocols, escalation rules | AIWA | No implied transfer to Starisian |
 | Educational publishing materials | Curricula, books, lesson resources, editorial packages | AIWA or contributing rights holders | Rights depend on source materials and contributor terms |
 | Datasets | Text corpora, linguistic resources, annotations, metadata | Controlled by rights state and permissions | Must be classified by permission state |
+| Governance metadata | Provenance records, permissions states, restrictions, royalty states, contributor identity markers | Governed by AIWA policy and applicable contributor terms | Must travel with governed artifacts and derivatives unless an approved override expressly states otherwise |
 | Platform software | SPARXSTAR, APIs, backend services, platform interfaces | Starisian | Pre-existing software remains Starisian background IP |
 | Patents and patentable methods | Platform infrastructure, processing systems, patented workflows | Starisian | No implied assignment by collaboration |
 | AI models and fine-tuned systems | Base models, tuned models, embeddings, classifiers | To be allocated by schedule | Must define training, retraining, and commercialization rights explicitly |
-| Derived outputs | Educational outputs, synthetic outputs, reports, maps | To be allocated by schedule | Requires explicit ownership and licensing clause |
+| Derived outputs | Statistical outputs, embeddings, educational summaries, synthetic outputs, generated media, transformative outputs, commercially substitutive outputs | To be allocated by schedule and output class | Requires output-category-specific ownership, licensing, governance, and restriction clauses |
 | Security and audit infrastructure | Logging, access controls, hosting, monitoring | Starisian | Subject to AIWA governance audit rights |
 | Trademarks and names | AIWA marks, Starisian marks, SPARXSTAR mark | Respective owner | Cross-use only by express license |
 
-## 7. Drafting priorities for the full agreement
+## 8. Drafting priorities for the full agreement
 
 - Contributors retain ownership unless they expressly grant rights otherwise.
 - AIWA administers permissions, consent states, governance rules, provenance integrity, and cultural protections.
 - Starisian receives only the technical rights needed to host, process, secure, and operate approved systems.
 - Ownership and control of embeddings, annotations, trained models, synthetic outputs, and educational outputs must be stated expressly rather than implied.
+- No AI training, retraining, fine-tuning, embedding generation, synthetic generation, inference optimization, or computational derivation rights are implied merely by dataset access, storage access, or infrastructure access.
+- Neither party shall intentionally use governed materials to reconstruct commercially substitutive reproductions of contributor Works absent explicit authorization.
 
-# Part IV — Drafting Outline
+# Part IV — Control clauses that must appear in the full agreement
 
-## 8. Master outline
+## 9. Computational rights and training restrictions
+
+- Computational Rights must be granted, withheld, or conditioned expressly by rights state, asset class, purpose, territory, duration, and approved processing mode.
+- Dataset access, storage access, hosting access, export access, or annotation access does not by itself grant model-training, retraining, fine-tuning, embedding-generation, synthetic-generation, or inference-optimization rights.
+- Any approved AI processing right must specify whether it covers training, evaluation, moderation, indexing, retrieval, analytics, or educational publishing use cases.
+
+## 10. Governance metadata and propagation
+
+- Governance Metadata must remain attached to governed artifacts, derived artifacts, and operational records in machine-readable and human-auditable form where technically feasible.
+- Permissions, restrictions, provenance requirements, royalty states, and governance states propagate to derivative artifacts unless an express approved override states otherwise.
+- Starisian must implement technical controls reasonably designed to preserve Governance Metadata through ingestion, storage, processing, export, and archival workflows.
+
+## 11. Operational states and human governance override
+
+- At minimum, the operational-state model must support ACTIVE, RESTRICTED, QUARANTINED, REVOKED, ARCHIVAL ONLY, DISPUTED, and EXPIRED states.
+- State transitions must be logged, attributable, reviewable, and enforceable across datasets, models, embeddings, outputs, and dependent processing workflows.
+- Final governance authority for state assignment, override, suspension, and exception approval remains with authorized human governance bodies designated by AIWA.
+
+## 12. Revocation and withdrawal mechanics
+
+- Revocation and withdrawal actions must state whether they operate prospectively only or also require operational suspension of ongoing processing.
+- The full agreement must specify the treatment of archives, backups, cached copies, embeddings, model weights, fine-tuned systems, and derived outputs after revocation or withdrawal.
+- Audit-preservation copies may be retained only to the extent necessary for legal compliance, dispute resolution, security review, or governance recordkeeping, and must remain subject to the most restrictive applicable governance state.
+
+## 13. Derived outputs and reconstruction limits
+
+- The full agreement must treat at least the following output classes separately: statistical outputs, embeddings, educational summaries, synthetic outputs, generated media, transformative outputs, and commercially substitutive outputs.
+- Each output class must have express rules for ownership, permitted use, publication, commercialization, contributor participation, and post-revocation handling.
+- Governance authorities may restrict processing operations that present material risk of cultural misrepresentation, unauthorized sacred disclosure, identity harm, or governance violation.
+
+## 14. Audit, related-party, and commercial mechanics
+
+- AIWA audit rights over Starisian must specify notice periods, reasonable frequency, scope, security limitations, remediation timelines, and escalation procedures.
+- Related-party governance language must expressly address ownership relationships, governance overlap, licensing boundaries, shared-personnel controls, and conflict-governance procedures.
+- Revenue and royalty schedules must eventually specify contributor share logic, community share logic, platform fee logic, governance fee logic, reserve handling, dispute reserves, minimum payout logic, and abandoned-funds handling.
+
+# Part V — Drafting Outline
+
+## 15. Master outline
 
 ### Part I — Foundations
 
 1. Parties
 2. Purpose
 3. Relationship of Parties
+4. Defined Terms and Operational States
 
 ### Part II — Governance Structure
 
-4. Governance Authority
-5. Infrastructure Authority
-6. Policy Hierarchy
+5. Governance Authority
+6. Infrastructure Authority
+7. Policy Hierarchy
+8. Human Governance Override
 
 ### Part III — IP & Datasets
 
-7. Background IP
-8. Contributor Rights
-9. Dataset Governance
-10. Derived Assets
+9. Background IP
+10. Contributor Rights
+11. Dataset Governance
+12. Computational Rights
+13. Governance Metadata and Propagation
+14. Derived Assets and Output Classes
 
 ### Part IV — Processing & Operations
 
-11. AI Processing Rights
-12. Security & Audit
-13. Revocation & Withdrawal
+15. AI Processing Rights
+16. Security & Audit
+17. Revocation & Withdrawal
+18. Model, Embedding, and Derived-Output Handling
 
 ### Part V — Commercial Structure
 
-14. Revenue Allocation
-15. Third-Party Partnerships
+19. Revenue Allocation
+20. Third-Party Partnerships
 
 ### Part VI — Risk & Governance
 
-16. Related-Party Governance
-17. Liability & Indemnities
-18. Termination
+21. Related-Party Governance
+22. Liability & Indemnities
+23. Termination
 
 ### Part VII — Sovereign & Cultural Positioning
 
-19. Cultural Stewardship Principles
+24. Cultural Stewardship Principles
+25. Cultural Harm and Restricted-Processing Review
 
-# Part V — Institutional drafting notes
+# Part VI — Institutional drafting notes
 
 - Use U.S.-style precision for IP, infrastructure, AI processing, licensing mechanics, liability, and operational detail.
 - Preserve Gambian-rooted stewardship logic for cultural legitimacy, contributor dignity, provenance oversight, and anti-extractive governance commitments.
