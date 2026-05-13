@@ -17,7 +17,7 @@ This agreement scaffold is structured to keep governance authority contributor-f
 
 ### AI West Africa (AIWA)
 
-AI West Africa is a Gambian-led for-profit company operating in educational publishing, governance, rights administration, and cultural stewardship. Its focus includes language preservation, contributor development, governed commercialization, and the ethical administration of African creative and linguistic resources.
+AI West Africa is a Gambian-led for-profit company operating in educational publishing, governance, rights administration, and cultural stewardship. Its focus includes language preservation, contributor development, governed commercialization conducted under contributor permissions, provenance controls, and governance rules, and the ethical administration of African creative and linguistic resources.
 
 ### Starisian Technologies
 
@@ -25,7 +25,7 @@ Starisian Technologies is the affiliated technical infrastructure and systems de
 
 ## 2. Purpose
 
-The purpose of this agreement is to define the institutional relationship between AIWA and Starisian Technologies across language preservation, commercial educational publishing, teaching, and certification. It also governs AI governance, rights administration, governed licensing, revenue participation, infrastructure cooperation, and the ethical processing and commercialization of contributor-governed materials.
+The purpose of this agreement is to define the institutional relationship between AIWA and Starisian Technologies across educational activities, including language preservation, commercial educational publishing, teaching, and certification; governance and commercial operations, including AI governance, rights administration, governed licensing, and revenue participation; and infrastructure operations, including infrastructure cooperation and the ethical processing and commercialization of contributor-governed materials.
 
 ## 3. Relationship of the Parties
 
