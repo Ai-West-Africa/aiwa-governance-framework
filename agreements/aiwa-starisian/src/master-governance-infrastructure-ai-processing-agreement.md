@@ -9,7 +9,7 @@ date: 2026-05-11
 
 # Draft status
 
-This agreement scaffold is structured to keep governance authority contributor-facing and AIWA-led, while recognizing the AIWA ecosystem as governance-aware commercial infrastructure and protecting Starisian Technologies as the infrastructure, platform, and patent-owning layer behind SPARXSTAR and related systems.
+This agreement scaffold is structured to keep governance authority contributor-facing and AIWA-led. It recognizes the AIWA ecosystem as governance-aware commercial infrastructure. It also protects Starisian Technologies as the infrastructure, platform, and patent-owning layer behind SPARXSTAR and related systems.
 
 # Part I — Foundations
 
@@ -17,7 +17,7 @@ This agreement scaffold is structured to keep governance authority contributor-f
 
 ### AI West Africa (AIWA)
 
-AI West Africa is a Gambian-led for-profit educational publishing, governance, rights administration, and cultural stewardship company focused on language preservation, contributor development, governed commercialization, and the ethical administration of African creative and linguistic resources.
+AI West Africa is a Gambian-led for-profit company operating in educational publishing, governance, rights administration, and cultural stewardship. Its focus includes language preservation, contributor development, governed commercialization, and the ethical administration of African creative and linguistic resources.
 
 ### Starisian Technologies
 
@@ -25,7 +25,7 @@ Starisian Technologies is the affiliated technical infrastructure and systems de
 
 ## 2. Purpose
 
-The purpose of this agreement is to define the institutional relationship between AIWA and Starisian Technologies for language preservation, commercial educational publishing, teaching, certification, AI governance, rights administration, governed licensing, revenue participation, infrastructure cooperation, and the ethical processing and commercialization of contributor-governed materials.
+The purpose of this agreement is to define the institutional relationship between AIWA and Starisian Technologies across language preservation, commercial educational publishing, teaching, and certification. It also governs AI governance, rights administration, governed licensing, revenue participation, infrastructure cooperation, and the ethical processing and commercialization of contributor-governed materials.
 
 ## 3. Relationship of the Parties
 
