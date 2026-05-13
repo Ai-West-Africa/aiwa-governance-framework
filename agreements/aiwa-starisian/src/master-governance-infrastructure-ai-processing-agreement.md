@@ -49,7 +49,7 @@ The purpose of this agreement is to define the institutional relationship betwee
 | Governance Propagation | The rule that applicable permissions, restrictions, provenance requirements, royalty states, and governance states follow derivative artifacts unless an express approved override states otherwise. |
 | Operational State | The current authorized governance status applied to an artifact, dataset, model, output, or system component. |
 | Chain of Title | The documented legal and governance basis showing that a party had authority to contribute, license, govern, process, or authorize use of a governed artifact or dataset. |
-| Commercially Substitutive Outputs | Outputs reasonably capable of replacing market demand for the original Work or a materially similar governed artifact. |
+| Commercially Substitutive Outputs | Outputs that could reasonably substitute for the original Work in the marketplace, as determined by substantial-similarity or functional-equivalence tests defined in the full agreement or Governance Specification. |
 | Security Classification | The required handling level for governed information or systems, including PUBLIC, INTERNAL, RESTRICTED, GOVERNED, and HIGHLY RESTRICTED states. |
 | Derived Outputs | Distinct categories of outputs including statistical outputs, embeddings, educational summaries, synthetic outputs, generated media, transformative outputs, and commercially substitutive outputs, each requiring express governance treatment. |
 
@@ -124,7 +124,8 @@ The purpose of this agreement is to define the institutional relationship betwee
 - Governance Metadata must remain attached to governed artifacts, derived artifacts, and operational records in machine-readable and human-auditable form where technically feasible.
 - Permissions, restrictions, provenance requirements, royalty states, and governance states propagate to derivative artifacts unless an express approved override states otherwise.
 - Starisian must implement technical controls reasonably designed to preserve Governance Metadata through ingestion, storage, processing, export, and archival workflows.
-- Where multiple source artifacts create conflicting permissions, restrictions, or governance states, the most restrictive applicable governance state prevails unless an authorized human governance body approves a narrower override in writing.
+- Where multiple source artifacts create conflicting permissions, restrictions, or governance states, the most restrictive applicable governance state prevails at the affected asset, field, or output level.
+- Any narrower override must be approved in writing by an authorized human governance body, with implementation details defined in the companion Governance Specification.
 
 ## 11. Operational states and human governance override
 
@@ -138,7 +139,8 @@ The purpose of this agreement is to define the institutional relationship betwee
 - Revocation and withdrawal actions must state whether they operate prospectively only or also require operational suspension of ongoing processing.
 - The full agreement must specify the treatment of archives, backups, cached copies, embeddings, model weights, fine-tuned systems, and derived outputs after revocation or withdrawal.
 - Audit-preservation copies may be retained only to the extent necessary for legal compliance, dispute resolution, security review, or governance recordkeeping, and must remain subject to the most restrictive applicable governance state.
-- The full agreement should also address retraining obligations, embedding retirement timing, cache expiration, derivative suppression, archival exceptions, and operational infeasibility handling where full technical rollback is not reasonably possible.
+- The full agreement must also address retraining obligations, embedding retirement timing, cache expiration, derivative suppression, archival exceptions, and operational infeasibility handling where full technical rollback is not reasonably possible.
+- Any claim of operational infeasibility must be supported by documented technical evidence, such as system architecture documentation, performance impact assessments, or costed rollback analyses, and reviewed through the applicable governance escalation or exception-approval process.
 
 ## 13. Derived outputs and reconstruction limits
 
@@ -156,7 +158,7 @@ The purpose of this agreement is to define the institutional relationship betwee
 ## 15. Governing law, venue, and enforcement lifecycle
 
 - The full agreement must specify governing law, venue, arbitration or court structure, and the relationship between Gambian stewardship logic and any mandatory applicable law.
-- The draft starting point should presume the laws of The Gambia unless mandatory law, a schedule, or a signed dispute-resolution clause requires a different treatment.
+- Unless mandatory law, a schedule, or a signed dispute-resolution clause requires a different treatment, this Agreement shall be governed by the laws of The Gambia.
 - The governance-enforcement lifecycle must define review authority, emergency restrictions, appeals, reinstatement, sanctions, remediation tracking, and escalation chains for contested governance-state decisions.
 
 # Part V — Drafting Outline
