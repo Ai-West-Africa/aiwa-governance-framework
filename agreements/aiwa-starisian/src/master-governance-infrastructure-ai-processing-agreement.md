@@ -9,7 +9,11 @@ date: 2026-05-11
 
 # Draft status
 
-This agreement scaffold is structured to keep governance authority contributor-facing and AIWA-led. It recognizes the AIWA ecosystem as governance-aware commercial infrastructure. It also protects Starisian Technologies as the infrastructure, platform, and patent-owning layer behind SPARXSTAR and related systems.
+This agreement scaffold is structured to:
+
+- keep governance authority contributor-facing and AIWA-led;
+- recognize the AIWA ecosystem as governance-aware commercial infrastructure; and
+- protect Starisian Technologies as the infrastructure, platform, and patent-owning layer behind SPARXSTAR and related systems.
 
 # Part I — Foundations
 
@@ -17,7 +21,7 @@ This agreement scaffold is structured to keep governance authority contributor-f
 
 ### AI West Africa (AIWA)
 
-AI West Africa is a Gambian-led for-profit company. It operates in educational publishing, governance, rights administration, and cultural stewardship. Its focus includes language preservation and contributor development. It also uses commercialization conducted under contributor permissions, provenance controls, and governance rules to support the ethical administration of African creative and linguistic resources.
+AI West Africa is a Gambian-led for-profit company. It operates in educational publishing, governance, rights administration, and cultural stewardship. Its focus includes language preservation and contributor development. It also conducts commercialization under contributor permissions, provenance controls, and governance rules to support the ethical administration of African creative and linguistic resources.
 
 ### Starisian Technologies
 
