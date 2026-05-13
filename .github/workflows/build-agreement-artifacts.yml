@@ -10,7 +10,6 @@ jobs:
     permissions:
       actions: write
       contents: read
-      actions: write
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
