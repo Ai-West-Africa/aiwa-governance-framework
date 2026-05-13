@@ -91,7 +91,7 @@ The purpose of this agreement is to define the institutional relationship betwee
 | Cultural review systems | Review criteria, stewardship protocols, escalation rules | AIWA | No implied transfer to Starisian |
 | Educational publishing materials | Curricula, books, lesson resources, editorial packages | AIWA or contributing rights holders | Rights depend on source materials and contributor terms |
 | Datasets | Text corpora, linguistic resources, annotations, metadata | Controlled by rights state and permissions | Must be classified by permission state |
-| Governance metadata | Provenance records, permissions states, restrictions, royalty states, contributor identity markers | Governed by AIWA policy and applicable contributor terms | Must travel with governed artifacts and derivatives unless an approved override expressly states otherwise |
+| Governance metadata | Provenance records, permission states, restrictions, royalty states, contributor identity markers | Governed by AIWA policy and applicable contributor terms | Must travel with governed artifacts and derivatives unless an approved override expressly states otherwise |
 | Platform software | SPARXSTAR, APIs, backend services, platform interfaces | Starisian | Pre-existing software remains Starisian background IP |
 | Patents and patentable methods | Platform infrastructure, processing systems, patented workflows | Starisian | No implied assignment by collaboration |
 | AI models and fine-tuned systems | Base models, tuned models, embeddings, classifiers | To be allocated by schedule | Must define training, retraining, and commercialization rights explicitly |
