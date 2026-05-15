@@ -87,7 +87,7 @@ The purpose of this agreement is to define the institutional relationship betwee
 ## 6. Policy Hierarchy
 
 1. Applicable law and mandatory contributor protections.
-2. AIWA governance frameworks, contributor agreements, and cultural stewardship policies.
+2. AIWA governance frameworks, decision frameworks, classification frameworks, process-and-procedure controls, contributor agreements, and cultural stewardship policies.
 3. This master agreement and any approved schedules.
 4. Starisian technical standards, security standards, and operational procedures, to the extent they do not override AIWA governance authority.
 
@@ -122,6 +122,8 @@ The purpose of this agreement is to define the institutional relationship betwee
 - Neither party shall intentionally use governed materials to reconstruct commercially substitutive reproductions of contributor Works absent explicit authorization.
 - Educational rights must be treated as distinct from computational rights, distribution rights, and synthetic-generation rights.
 - Rights allocations must rest on demonstrable chain of title and documented authority for each governed intake, dataset, and derivative artifact.
+- Authority verification controls should expressly address co-author permissions, school or guardian permissions for works involving minors, and institutional permissions for institution-submitted works where applicable.
+- The full agreement should preserve AIWA's role-based governance hierarchy, authority boundaries, and required review gates so that no required intake, rights, cultural, or escalation stage may be bypassed by undocumented operational practice.
 
 # Part IV — Control clauses that must appear in the full agreement
 
@@ -144,6 +146,7 @@ The purpose of this agreement is to define the institutional relationship betwee
 
 - At minimum, the operational-state model must support ACTIVE, RESTRICTED, QUARANTINED, REVOKED, ARCHIVAL ONLY, DISPUTED, and EXPIRED states.
 - State transitions must be logged, attributable, reviewable, and enforceable across datasets, models, embeddings, outputs, and dependent processing workflows.
+- No approval, override, reclassification, or state transition should be valid unless made by an authorized governance role through a new documented decision record.
 - Final governance authority for state assignment, override, suspension, and exception approval remains with authorized human governance bodies designated by AIWA.
 - Security handling must also be classified at minimum as PUBLIC, INTERNAL, RESTRICTED, GOVERNED, or HIGHLY RESTRICTED, with classification-specific access, storage, processing, and disclosure controls.
 
@@ -165,6 +168,7 @@ The purpose of this agreement is to define the institutional relationship betwee
 
 - AIWA audit rights over Starisian must specify notice periods, reasonable frequency, scope, security limitations, remediation timelines, and escalation procedures.
 - Audit procedures must also protect confidential infrastructure details, competitive exposure, third-party confidentiality obligations, and Background IP boundaries while still enabling meaningful governance oversight.
+- Decision records, rights-status determinations, cultural-status determinations, and reclassification records must be retained as part of the governance audit trail and made available for authorized review.
 - Related-party governance language must expressly address ownership relationships, governance overlap, licensing boundaries, shared-personnel controls, and conflict-governance procedures.
 - Revenue and royalty schedules must eventually specify contributor share logic, community share logic, platform fee logic, governance fee logic, reserve handling, dispute reserves, minimum payout logic, and abandoned-funds handling.
 
@@ -172,6 +176,8 @@ The purpose of this agreement is to define the institutional relationship betwee
 
 - The full agreement must specify governing law, venue, arbitration or court structure, and the relationship between Gambian stewardship logic and any mandatory applicable law.
 - Unless mandatory law, a schedule, or a signed dispute-resolution clause requires a different treatment, this Agreement shall be governed by the laws of The Gambia.
+- Internal governance bodies remain subordinate to applicable Gambian law, ministerial authority, and legally required government authorizations where relevant to folklore, restricted cultural materials, education, or institutional participation.
+- Folklore, restricted-material, or government-authorization classifications should not be downgraded or bypassed except through the documented procedures and lawful authority recognized in the applicable AIWA policy framework.
 - The governance-enforcement lifecycle must define review authority, emergency restrictions, appeals, reinstatement, sanctions, remediation tracking, and escalation chains for contested governance-state decisions.
 
 # Part V — Drafting Outline
