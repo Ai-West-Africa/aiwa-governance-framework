@@ -87,7 +87,7 @@ The purpose of this agreement is to define the institutional relationship betwee
 ## 6. Policy Hierarchy
 
 1. Applicable law and mandatory contributor protections.
-2. AIWA governance frameworks, decision frameworks, classification frameworks, process-and-procedure controls, contributor agreements, and cultural stewardship policies.
+2. The then-current approved AIWA governance frameworks, decision frameworks, classification frameworks, process-and-procedure controls, contributor agreements, and cultural stewardship policies.
 3. This master agreement and any approved schedules.
 4. Starisian technical standards, security standards, and operational procedures, to the extent they do not override AIWA governance authority.
 
@@ -97,7 +97,7 @@ The purpose of this agreement is to define the institutional relationship betwee
 
 | Asset class | Illustrative assets | Primary controller / owner | Notes for agreement schedule |
 | --- | --- | --- | --- |
-| Governance frameworks | AIWA-POL framework, contributor governance rules, review policies | AIWA | Governance authority remains with AIWA |
+| Governance frameworks | Current AIWA policy framework, contributor governance rules, decision controls, and review policies | AIWA | Governance authority remains with AIWA and drafting should follow the then-current approved AIWA policy baseline |
 | Contributor agreements | Consent forms, rights grants, withdrawal procedures | AIWA | Contributor-facing rights remain AIWA-administered |
 | Cultural review systems | Review criteria, stewardship protocols, escalation rules | AIWA | No implied transfer to Starisian |
 | Educational publishing materials | Curricula, books, lesson resources, editorial packages | AIWA or contributing rights holders | Rights depend on source materials and contributor terms |
@@ -253,6 +253,7 @@ The purpose of this agreement is to define the institutional relationship betwee
 - Preserve Gambian-rooted stewardship logic for cultural legitimacy, contributor dignity, provenance oversight, and anti-extractive governance commitments.
 - Keep the agreement governance-led and infrastructure-protective, rather than infrastructure-led with governance appended later.
 - Keep the master agreement focused on inter-organizational constitutional structure, while moving operational semantics, enforcement details, economic logic, and security controls into schedules, annexes, or companion specifications.
+- Conform iterative drafting to the then-current approved AIWA policy framework, using it as the primary internal policy baseline for terminology, authority mapping, review gates, and governance controls.
 - Use commercially credible, operationally disciplined, rights-aware, and ethically governed enterprise language rather than activist, nonprofit, or aid-sector framing.
 - Reference SDGs, California-influenced practices, or similar external standards only as voluntary alignment with internationally recognized principles and commercially influential governance practices, not as charity positioning or as direct submission to foreign law.
 - Frame accessibility as operational inclusion, educational reach, workforce participation, and product quality rather than as charity.
