@@ -1,0 +1,33 @@
+name: Build agreement artifacts
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  build-aiwa-starisian-agreement:
+    runs-on: ubuntu-latest
+    permissions:
+      actions: write
+      contents: read
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Install document build tools
+        run: |
+          mkdir -p "$RUNNER_TEMP/apt-sources"
+          sudo cp /etc/apt/sources.list.d/ubuntu.sources "$RUNNER_TEMP/apt-sources/ubuntu.sources"
+          sudo apt-get -o Dir::Etc::sourceparts="$RUNNER_TEMP/apt-sources" update
+          sudo env DEBIAN_FRONTEND=noninteractive apt-get -o Dir::Etc::sourceparts="$RUNNER_TEMP/apt-sources" install -y pandoc wkhtmltopdf
+
+      - name: Build agreement artifacts
+        run: bash scripts/build_agreement.sh
+
+      - name: Upload agreement artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: aiwa-starisian-agreement
+          path: |
+            build/agreements/aiwa-starisian/*.docx
+            build/agreements/aiwa-starisian/*.pdf
